@@ -1,5 +1,6 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
+        if(matrix.length==0)return 0;
         int n=matrix.length;
         int m=matrix[0].length;
         int [][] psum=new int [n][m];
