@@ -25,7 +25,7 @@ class Solution {
             hash[idx]++;
             maxfreq=Math.max(maxfreq,hash[idx]);
            
-            if((right-left+1)-maxfreq>k){
+            while((right-left+1)-maxfreq>k){
                 hash[s.charAt(left)-'A']--;
                 left++;
             }
