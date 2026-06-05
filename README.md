@@ -55,6 +55,7 @@ LeetCode Problems(Java)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ LeetCode Problems(Java)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +101,8 @@ LeetCode Problems(Java)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
