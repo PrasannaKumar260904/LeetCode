@@ -6,6 +6,7 @@ LeetCode Problems(Java)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -15,6 +16,7 @@ LeetCode Problems(Java)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
