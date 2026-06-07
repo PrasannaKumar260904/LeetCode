@@ -16,11 +16,13 @@ LeetCode Problems(Java)
 | [0049-group-anagrams](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +31,7 @@ LeetCode Problems(Java)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
