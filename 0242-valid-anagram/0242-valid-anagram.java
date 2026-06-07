@@ -1,6 +1,6 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        char[] freq=new char[26];
+        int []freq=new int[26];
         char[] ch1=s.toCharArray();
         char[] ch2=t.toCharArray();
         for(char ch:ch1){
@@ -10,7 +10,7 @@ class Solution {
         for(char ch:ch2){
             freq[ch-'a']--;
         }
-        for(char count:freq){
+        for(int count:freq){
             if(count!=0){
                 return false;
             }
