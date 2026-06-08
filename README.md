@@ -13,6 +13,7 @@ LeetCode Problems(Java)
 | [0219-contains-duplicate-ii](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ LeetCode Problems(Java)
 | [0219-contains-duplicate-ii](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -32,6 +34,7 @@ LeetCode Problems(Java)
 | [0217-contains-duplicate](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
