@@ -10,6 +10,7 @@ LeetCode Problems(Java)
 | [0011-container-with-most-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -124,6 +125,7 @@ LeetCode Problems(Java)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
