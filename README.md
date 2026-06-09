@@ -8,6 +8,7 @@ LeetCode Problems(Java)
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -56,6 +57,7 @@ LeetCode Problems(Java)
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -121,6 +123,7 @@ LeetCode Problems(Java)
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -161,10 +164,15 @@ LeetCode Problems(Java)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
