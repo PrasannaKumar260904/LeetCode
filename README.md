@@ -32,6 +32,7 @@ LeetCode Problems(Java)
 | [0347-top-k-frequent-elements](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ LeetCode Problems(Java)
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0567-permutation-in-string](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@ LeetCode Problems(Java)
 | [0125-valid-palindrome](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0567-permutation-in-string](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +175,7 @@ LeetCode Problems(Java)
 | [0042-trapping-rain-water](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0567-permutation-in-string](https://github.com/PrasannaKumar260904/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
